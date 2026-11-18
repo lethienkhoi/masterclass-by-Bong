@@ -96,9 +96,10 @@ Càng lệch về góc dưới bên trái, việc càng nên giao cho người k
 
 ## Phim hoạt hình tóm tắt buổi 1
 
-[![Phim Leader Project cần kỹ năng gì](phim-poster.jpg)](phim-xem-nhanh-720p.mp4)
+[![Phim Leader Project cần kỹ năng gì](phim-poster.jpg)](https://lethienkhoi.github.io/masterclass-by-Bong/buoi-1/xem-phim.html)
 
-- Xem ngay trên GitHub: [phim-xem-nhanh-720p.mp4](phim-xem-nhanh-720p.mp4) (720p, 3.9 MB)
+- ▶ Xem phim online: [https://lethienkhoi.github.io/masterclass-by-Bong/buoi-1/xem-phim.html](https://lethienkhoi.github.io/masterclass-by-Bong/buoi-1/xem-phim.html)
+- Bản nhẹ 720p: [phim-xem-nhanh-720p.mp4](phim-xem-nhanh-720p.mp4) (3.9 MB)
 - Bản gốc Full HD 60fps để tải về: [phim-leader-project-buoi-1.mp4](https://github.com/lethienkhoi/masterclass-by-Bong/raw/main/buoi-1/phim-leader-project-buoi-1.mp4) (2:26, 49 MB)
 - Phụ đề: [phim-leader-project-buoi-1.srt](phim-leader-project-buoi-1.srt)
 - Storyboard: [phim-storyboard.jpg](phim-storyboard.jpg)
