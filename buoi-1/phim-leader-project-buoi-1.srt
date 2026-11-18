@@ -1,0 +1,131 @@
+1
+00:00:00,909 --> 00:00:05,516
+Một dự án vừa rơi xuống. Người đỡ lấy nó là leader.
+
+2
+00:00:05,545 --> 00:00:08,475
+Vậy, leader dự án cần kĩ năng gì?
+
+3
+00:00:09,818 --> 00:00:12,182
+Trước hết là nền móng: đối nội.
+
+4
+00:00:12,182 --> 00:00:16,099
+Hiểu rõ team mình mạnh gì, yếu gì, ai làm được việc gì.
+
+5
+00:00:20,955 --> 00:00:23,257
+Đối nội vững thì đối ngoại dễ.
+
+6
+00:00:23,318 --> 00:00:26,526
+Khách tin người mang giải pháp, không phải người nói hay.
+
+7
+00:00:26,591 --> 00:00:30,132
+Và luôn ưu tiên làm việc với chủ tiệc, người ra quyết định.
+
+8
+00:00:32,136 --> 00:00:34,682
+Trên nền móng đó là ba kỹ năng quan trọng:
+
+9
+00:00:34,682 --> 00:00:37,953
+plan, điều phối, và quản lý thời gian.
+
+10
+00:00:39,318 --> 00:00:41,318
+Plan bắt đầu từ thông tin.
+
+11
+00:00:41,318 --> 00:00:46,297
+Hỏi chủ tiệc, hỏi nội bộ, hỏi bên ngoài, tới khi nhìn thấy sự việc trong đầu.
+
+12
+00:00:46,409 --> 00:00:49,486
+Plan không phải bảng chằng chịt chữ, cả chục sheet.
+
+13
+00:00:49,682 --> 00:00:56,693
+Plan phải rõ ràng: mạnh, yếu, cơ hội, thách thức, đối thủ, bán cái gì, và key point là gì.
+
+14
+00:00:57,909 --> 00:00:59,633
+Điều phối là giao việc.
+
+15
+00:01:00,909 --> 00:01:04,131
+Giao kiểu này, người nhận không biết bắt đầu từ đâu.
+
+16
+00:01:04,455 --> 00:01:08,488
+Hãy giao như viết prompt cho AI: đầu vào tốt thì đầu ra tốt.
+
+17
+00:01:08,636 --> 00:01:13,545
+Brief đủ thông tin, có ref rõ ràng, nói rõ việc gấp và quan trọng cỡ nào.
+
+18
+00:01:13,545 --> 00:01:16,734
+Giao xong, hỏi lại: còn gì chưa rõ không?
+
+19
+00:01:16,909 --> 00:01:19,091
+Quản lý thời gian là quan trọng nhất.
+
+20
+00:01:19,091 --> 00:01:22,711
+Mỗi ngày, liệt kê hết việc, rồi chia vào bốn ô.
+
+21
+00:01:23,091 --> 00:01:25,514
+Gấp và quan trọng: tự làm ngay.
+
+22
+00:01:25,636 --> 00:01:29,296
+Quan trọng nhưng chưa gấp: giao người tin cậy, và giám sát.
+
+23
+00:01:29,545 --> 00:01:32,332
+Gấp mà không quan trọng: giao người làm nhanh.
+
+24
+00:01:32,545 --> 00:01:35,443
+Không gấp, không quan trọng: ai làm cũng được.
+
+25
+00:01:35,818 --> 00:01:39,595
+Cứ thế, người mới lớn dần, từ ô bốn lên ô một.
+
+26
+00:01:40,909 --> 00:01:44,633
+Và luôn chừa một khoảng trống, để đón việc mới, cơ hội mới.
+
+27
+00:01:46,844 --> 00:01:48,571
+Áp vào một phim hành động:
+
+28
+00:01:48,571 --> 00:01:51,619
+định vị Action, key message phải đúng chất.
+
+29
+00:01:51,844 --> 00:01:54,804
+Poster và teaser đầu tiên phải thật mạnh.
+
+30
+00:01:55,117 --> 00:01:59,395
+Rồi phủ thật nhiều KOC đa ngách, ưu tiên TikTok, vì phim là video.
+
+31
+00:02:01,844 --> 00:02:05,654
+Nhưng biết và hiểu mà chưa làm, thì mới chỉ là tiền kỹ năng.
+
+32
+00:02:06,693 --> 00:02:08,900
+Phải làm, mới thành kỹ năng.
+
+33
+00:02:10,511 --> 00:02:15,597
+Và khi dự án gặp nguy, leader giỏi biết đúng lúc nhảy vào cứu, như một người hùng.

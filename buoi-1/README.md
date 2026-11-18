@@ -94,6 +94,14 @@ Càng lệch về góc dưới bên trái, việc càng nên giao cho người k
 - Ưu tiên phủ trên TikTok vì phim là video: phân bổ khoảng TikTok 70%, Facebook 30%.
 - Team có core vững mới làm được plan vững. Trước khi nhận dự án, nhìn kỹ studio và team; thấy không ổn thì từ chối.
 
+## Phim hoạt hình tóm tắt buổi 1
+
+[![Phim Leader Project cần kỹ năng gì](phim-poster.jpg)](phim-leader-project-buoi-1.mp4)
+
+- Video: [phim-leader-project-buoi-1.mp4](phim-leader-project-buoi-1.mp4) (2:26, 16:9, stick-figure explainer, giọng đọc tiếng Việt)
+- Phụ đề: [phim-leader-project-buoi-1.srt](phim-leader-project-buoi-1.srt)
+- Storyboard: [phim-storyboard.jpg](phim-storyboard.jpg)
+
 ## Bài tập và ghi chú
 
 - [ ] Bài tập về nhà: liệt kê các thành phần cần có của một plan truyền thông phim.
