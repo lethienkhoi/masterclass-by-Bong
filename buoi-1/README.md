@@ -31,7 +31,7 @@ Người MKT Lead phải xác định đúng **người quyết định cao nh�
 1. **Ai quan trọng nhất**: biết rõ người quyết định cuối cùng của dự án.
 2. **Yes / but**: đồng ý trước, rồi đưa ra hướng tốt hơn; từ chối khéo mà không mất lòng.
 3. **Vì tốt cho phim**: mọi lập luận và quyết định đều neo vào lợi ích của bộ phim.
-4. **"Bầy đàn"**: cả team đi cùng một hướng, theo tầm nhìn của người quan trọng nhất.
+4. **"Bầy đàn"**: khi ra ngoài thực chiến, **team mình là số 1**: luôn bảo vệ người trong team và cùng nhau làm việc hiệu quả.
 
 → Kết quả: MKT Lead **flexible**, linh hoạt mà không lạc hướng.
 
