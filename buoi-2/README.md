@@ -1,4 +1,4 @@
-# Recap buổi 1 – Leader Project cần kĩ năng gì?
+# Recap Buổi 2 – Leader Project cần kĩ năng gì?
 
 Masterclass Leader Project Marketing Phim · 18/11/2026 · Khôi
 
@@ -10,7 +10,7 @@ Nền móng của cả ba là **đối nội vững**: hiểu rõ team mình m�
 
 ## Mindmap kỹ năng
 
-![Mindmap kỹ năng leader buổi 1](mindmap-buoi-1.jpg)
+![Mindmap kỹ năng leader Buổi 2](mindmap-buoi-2.jpg)
 
 ## Highlights
 
@@ -94,14 +94,14 @@ Càng lệch về góc dưới bên trái, việc càng nên giao cho người k
 - Ưu tiên phủ trên TikTok vì phim là video: phân bổ khoảng TikTok 70%, Facebook 30%.
 - Team có core vững mới làm được plan vững. Trước khi nhận dự án, nhìn kỹ studio và team; thấy không ổn thì từ chối.
 
-## Phim hoạt hình tóm tắt buổi 1
+## Phim hoạt hình tóm tắt Buổi 2
 
-[![Phim Leader Project cần kỹ năng gì](phim-poster.jpg)](https://lethienkhoi.github.io/masterclass-by-Bong/buoi-1/xem-phim.html)
+[![Phim Leader Project cần kỹ năng gì](phim-poster.jpg)](https://lethienkhoi.github.io/masterclass-by-Bong/buoi-2/xem-phim.html)
 
-- ▶ Xem phim online: [https://lethienkhoi.github.io/masterclass-by-Bong/buoi-1/xem-phim.html](https://lethienkhoi.github.io/masterclass-by-Bong/buoi-1/xem-phim.html)
+- ▶ Xem phim online: [https://lethienkhoi.github.io/masterclass-by-Bong/buoi-2/xem-phim.html](https://lethienkhoi.github.io/masterclass-by-Bong/buoi-2/xem-phim.html)
 - Bản nhẹ 720p: [phim-xem-nhanh-720p.mp4](phim-xem-nhanh-720p.mp4) (3.9 MB)
-- Bản gốc Full HD 60fps để tải về: [phim-leader-project-buoi-1.mp4](https://github.com/lethienkhoi/masterclass-by-Bong/raw/main/buoi-1/phim-leader-project-buoi-1.mp4) (2:45)
-- Phụ đề: [phim-leader-project-buoi-1.srt](phim-leader-project-buoi-1.srt)
+- Bản gốc Full HD 60fps để tải về: [phim-leader-project-buoi-2.mp4](https://github.com/lethienkhoi/masterclass-by-Bong/raw/main/buoi-2/phim-leader-project-buoi-2.mp4) (2:45)
+- Phụ đề: [phim-leader-project-buoi-2.srt](phim-leader-project-buoi-2.srt)
 - Storyboard: [phim-storyboard.jpg](phim-storyboard.jpg)
 
 ## Bài tập và ghi chú
